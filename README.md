@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 # Here is the live demo <a href="https://ecommerceapp-react.netlify.app" style="font-size: 40px">View Demo</a>
+=======
 
 ![alt-text](https://github.com/TheCodersDream/React-Ecommerce-App-with-Redux/blob/master/ecm1-1.png)
 ![alt-text](https://github.com/TheCodersDream/React-Ecommerce-App-with-Redux/blob/master/ecm3.png)
